@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkshenlan_tool"]=self["webpackChunkshenlan_tool"]||[]).push([[910],{46910:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var u=function(){var n=this,e=n._self._c;return e("div",[n._v("工具箱")])},l=[],o={name:"Home",components:{},data(){return{}},mounted(){},methods:{}},s=o,r=t(43736),a=(0,r.Z)(s,u,l,!1,null,null,null),c=a.exports,f=c}}]);
